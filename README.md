@@ -1,0 +1,1 @@
+This is Piterś first git project
